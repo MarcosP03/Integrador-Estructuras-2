@@ -4,6 +4,6 @@
 
 
 //Procesamiento de Encuestas
-void procesarCSV(char* nombreArchivo, Pila* encuestas, Encuestadores* encuestador);
+
 
 #endif
